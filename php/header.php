@@ -58,6 +58,7 @@
                 </script>
             </div>
             <nav>
-                <a class="home" href="index.html">+Reuben</a>
+                <a class="home" href="index.php">+Reuben</a>
+                <a class="home" href="contact.php">Contact Me</a>
             </nav>
         </header>
