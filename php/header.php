@@ -1,14 +1,7 @@
-
-<!DOCTYPE html>
-<html itemscope itemtype="http://schema.org/Person" lang="en-au">
-	<head>
-        <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
-		<title>Home - Reuben Walker</title>
-		<meta name='description' content='Reuben Walker - Computer Nerd'/>
-        <meta name="google-site-verification" content="Sm4o9SO28OPcmvfZt02CMSW6nZ-pni1xT0qZdXvj0R8"/>
+<meta name="google-site-verification" content="Sm4o9SO28OPcmvfZt02CMSW6nZ-pni1xT0qZdXvj0R8"/>
         <!-- Start of G+ -->
         <meta itemprop="name" content="Reuben Walker">
-        <meta itemprop="description" content="Reuben Walker is a random young guy in NSW, Australia who is interested in computers, maths, and sound gear. Also known for shockingly bad jokes.">
+        <meta itemprop="description" content="Reuben Walker is a random young guy in NSW, Australia who is interested in computers, maths, and physics. Also known for shockingly bad jokes.">
         <!-- End of G+ -->
         <style type="text/css">
 			header a.home {
@@ -67,45 +60,3 @@
                 <a class="home" href="index.html">+Reuben</a>
             </nav>
         </header>
-        <div class="body">
-            <h1 id="logo"></h1>
-            <p>This page doesn't seem to be here. Either it never existed, it's been renamed, or I've deleted it. Sorry if you thought it was important. Now that you're here, I suggest you check out my <a href="index.html">home page</a>.
-                <br/>
-                <br/>
-            </p>
-            <script><!--
-                google_ad_client = "ca-pub-2120752570687804";
-                /* 728 x 90 */
-                google_ad_slot = "7406164202";
-                google_ad_width = 728;
-                google_ad_height = 90;
-            //-->
-            </script>
-            <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-            </script>
-            <p>
-                <br/>
-            </p>
-            <table id="share">
-                <tr>
-                    <td><div class="g-plusone" data-annotation="inline"></div></td>
-                    <td><a href="https://twitter.com/share" class="twitter-share-button" data-via="walkerreuben" data-dnt="true">Tweet</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
-                    <td><div class="fb-like" data-href="http://walkerreuben.com/" data-send="false" data-width="120" data-show-faces="false" data-action="recommend" data-font="arial"></div></td>
-                </tr>
-            </table>
-            <p>
-                <br/>
-                <br/>
-            </p>
-        </div>
-        <footer>
-            <table>
-                <tr>
-                    <td class="footer-left">Copyright Reuben Walker 2012</td>
-                    <td class="footer-right"><a rel="author" href="https://profiles.google.com/114220342146044492254">Google+</a> <a href="http://twitter.com/walkerreuben">Twitter</a> <a href="http://au.linkedin.com/in/walkerreuben">LinkedIn</a></td>
-                </tr>
-            </table>
-        </footer>
-    </body>
-</html>
