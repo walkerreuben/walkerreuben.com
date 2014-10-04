@@ -7,8 +7,7 @@
         <div class="body">
             <h1 id="logo"></h1>
 		<p>
-			<iframe class="cal" src="https://www.google.com/calendar/embed?title=Reuben's%20Calendar&amp;showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%	23FFFFFF&amp;src=72cp14jhhfsfvji2tvmf2904uk%40group.calendar.google.com&amp;color=%23A32929&amp;src=walkerreuben%40gmail.com&amp;color=%23113F47&amp;src=1vife1ovsiohtshsg5gd3cqabo%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Australia%2FSydney">
-			</iframe>
+			<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=walkerreuben%40gmail.com&amp;color=%232952A3&amp;src=91lt3iqe0bmd68rsm3dt75t5ho%40group.calendar.google.com&amp;color=%236B3304&amp;src=0vavj3klnh7nm2gblmpihkolr0%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Australia%2FSydney" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
 		</p>
             <p>
                 <br/>

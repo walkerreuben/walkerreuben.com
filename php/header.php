@@ -1,4 +1,5 @@
 <meta name="google-site-verification" content="Sm4o9SO28OPcmvfZt02CMSW6nZ-pni1xT0qZdXvj0R8"/>
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
         <!-- Start of G+ -->
         <meta itemprop="name" content="Reuben Walker">
         <meta itemprop="description" content="Reuben Walker is a random young guy in NSW, Australia who is interested in computers, maths, and physics. Also known for shockingly bad jokes.">
