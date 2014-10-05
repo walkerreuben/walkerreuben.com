@@ -52,7 +52,7 @@
                             <label for="last_name">Comments *</label>
                         </td>
                         <td valign="top">
-                            <input type="text" name="comments" maxlength="50" size="30">
+                            <textarea name="comments" maxlength="1000" cols="25" rows="6"></textarea>
                         </td>
                     </tr>
                     <tr>
