@@ -5,8 +5,6 @@
 <title>Elsewhere on the Internet - Reuben Walker</title>
 <meta name='description' content="This site is the main one to find Reuben at. But it's not the only one. You can find him at the sites listed on this page."/>
        <?php include 'header.php' ?>
-        <div class="body">
-            <h1 id="logo"></h1>
 <h3>Where's walkerreuben?</h3>
 <p>You can find me on the following sites. I may or may not be active on them, as my habits vary.</p>
 <p><a href="https://plus.google.com/+ReubenWalkerAU/posts">Google Plus</a></p>

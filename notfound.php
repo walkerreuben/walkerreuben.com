@@ -5,8 +5,6 @@
 		<title>Home - Reuben Walker</title>
 		<meta name='description' content='Reuben Walker - Computer Nerd'/>
         <?php include 'header.php' ?>
-        <div class="body">
-            <h1 id="logo"></h1>
             <p>This page doesn't seem to be here. Either it never existed, it's been renamed, or I've deleted it. Sorry if you thought it was important. Now that you're here, I suggest you check out my <a href="index.html">home page</a>.
                 <br/>
                 <br/>

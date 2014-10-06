@@ -62,3 +62,5 @@
                 <a class="home" href="contact.php">Contact Me</a>
             </nav>
         </header>
+        <div class="body">
+            <a href="index.php"><h1 id="logo"></h1></a>

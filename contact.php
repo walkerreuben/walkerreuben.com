@@ -5,8 +5,6 @@
 		<meta name='description' content="The easiest way to contact me, unless you know my details."/>
         
         <?php include 'header.php' ?>
-        <div class="body">
-            <h1 id="logo"></h1>
             <?php
                 if ($_GET)
                     echo "Thank you for contacting me. I'll be in touch with you soon.";
