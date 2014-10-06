@@ -16,10 +16,6 @@ iframe.cal {
     width:680px;
     height:600px;
 }
-iframe.req {
-    width:600px;
-    height:650px;
-}
 nav {
     width:100%;
     background-color:#2d2d2d;
@@ -51,17 +47,9 @@ nav a:focus {
     margin-top:25px;
     background-image:url('images/logo - 680x170.png');
 }
-#skype {
-    border:none;
-    width:118px;
-    height:23px;
-}
 div.body {
     width:680px;
     margin-left:44px;
-}
-table.hotkey td {
-    padding:0px 10px 0px 10px;
 }
 #share td {
     height:30px;
