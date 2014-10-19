@@ -5,8 +5,6 @@
 		<title>Camp Countdown - Reuben Walker</title>
 		<meta name='description' content='This page should not be showing up in search results.'/>
         <script>
-            //September 2014
-            //var getaway = 1411279200000;
             //April 2015
             var getaway = 1428213600000;
             //September 2015
