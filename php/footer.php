@@ -14,7 +14,7 @@
         <footer>
             <table>
                 <tr>
-                    <td class="footer-left">Copyright Reuben Walker 2014</td>
+                    <td class="footer-left">Copyright  &copy; Reuben Walker 2014</td>
                     <td class="footer-right"><a href="https://www.facebook.com/reuben.walker.35">Facebook</a> <a rel="author" href="https://plus.google.com/+ReubenWalkerAU/posts">Google+</a> <a href="http://twitter.com/walkerreuben">Twitter</a> <a href="http://au.linkedin.com/in/walkerreuben">LinkedIn</a></td>
                 </tr>
             </table>
