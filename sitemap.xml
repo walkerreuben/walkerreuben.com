@@ -5,18 +5,15 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://www.walkerreuben.com/index.php</loc>
+  <loc>https://www.walkerreuben.com/index.php</loc>
 </url>
 <url>
-  <loc>http://www.walkerreuben.com/calendar.php</loc>
+  <loc>https://www.walkerreuben.com/elsewhere.php</loc>
 </url>
 <url>
-  <loc>http://www.walkerreuben.com/elsewhere.php</loc>
+  <loc>https://www.walkerreuben.com/notfound.php</loc>
 </url>
 <url>
-  <loc>http://www.walkerreuben.com/notfound.php</loc>
-</url>
-<url>
-    <loc>http://www.walkerreuben.com/contact.php</loc>
+    <loc>https://www.walkerreuben.com/contact.php</loc>
 </url>
 </urlset>

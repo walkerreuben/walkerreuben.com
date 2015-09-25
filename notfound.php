@@ -5,7 +5,7 @@
 		<title>Home - Reuben Walker</title>
 		<meta name='description' content='Reuben Walker - Computer Nerd'/>
         <?php include 'header.php' ?>
-            <p>This page doesn't seem to be here. Either it never existed, it's been renamed, or I've deleted it. Sorry if you thought it was important. Now that you're here, I suggest you check out my <a href="index.html">home page</a>.
+            <p>This page doesn't seem to be here. Either it never existed, it's been renamed, or I've deleted it. Sorry if you thought it was important. Now that you're here, I suggest you check out my <a href="index.php">home page</a>.
                 <br/>
                 <br/>
             </p>
@@ -17,7 +17,7 @@
                 google_ad_height = 90;
             //-->
             </script>
-            <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            <script src="//pagead2.googlesyndication.com/pagead/show_ads.js">
             </script>
             <p>
                 <br/>

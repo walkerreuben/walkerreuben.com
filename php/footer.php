@@ -1,21 +1,26 @@
-            <table id="share">
-                <tr>
-                    <td><div class="g-plusone" data-annotation="inline"></div></td>
-                    <td><a href="https://twitter.com/share" class="twitter-share-button" data-via="walkerreuben" data-dnt="true">Tweet</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
-                    <td><div class="fb-like" data-href="http://walkerreuben.com/" data-send="false" data-width="120" data-show-faces="false" data-action="recommend" data-font="arial"></div></td>
-                </tr>
-            </table>
+	    <script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2120752570687804";
+                /* 728 x 90 */
+                google_ad_slot = "7406164202";
+                google_ad_width = 728;
+                google_ad_height = 90;
+            //-->
+            </script>
+            <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+            <p>
+                <br/>
+            </p>
             <p>
                 <br/>
                 <br/>
             </p>
-        </div>
+	</div>
         <footer>
             <table>
                 <tr>
-                    <td class="footer-left">Copyright  &copy; Reuben Walker 2014</td>
-                    <td class="footer-right"><a href="https://www.facebook.com/reuben.walker.35">Facebook</a> <a rel="author" href="https://plus.google.com/+ReubenWalkerAU/posts">Google+</a> <a href="http://twitter.com/walkerreuben">Twitter</a> <a href="http://au.linkedin.com/in/walkerreuben">LinkedIn</a></td>
+                    <td class="footer-left">Copyright  &copy; Reuben Walker 2015</td>
+                    <td class="footer-right"><a href="https://www.facebook.com/walkerreuben">Facebook</a> <a rel="author" href="https://plus.google.com/+ReubenWalkerAU/posts">Google+</a> <a href="http://twitter.com/walkerreuben">Twitter</a> <a href="http://au.linkedin.com/in/walkerreuben">LinkedIn</a></td>
                 </tr>
             </table>
         </footer>

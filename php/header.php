@@ -1,66 +1,40 @@
-<meta name="google-site-verification" content="Sm4o9SO28OPcmvfZt02CMSW6nZ-pni1xT0qZdXvj0R8"/>
-<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
-        <!-- Start of G+ -->
-        <meta itemprop="name" content="Reuben Walker">
-        <meta itemprop="description" content="Reuben Walker is a random young guy in NSW, Australia who is interested in computers, maths, and physics. Also known for shockingly bad jokes.">
-        <!-- End of G+ -->
-        <style type="text/css">
-			header a.home {
-				color:#FFFFFF;
-				}
-		</style>
-        <link rel="apple-touch-icon" href="images/ios.png"/>
-        <meta name='keywords' content='Reuben, Walker, Reuben Walker, walkerreuben'/>
-        <meta charset="UTF-8"/>
+	<!-- Confirm to Google that I own this page -->
+	<meta name="google-site-verification" content="Sm4o9SO28OPcmvfZt02CMSW6nZ-pni1xT0qZdXvj0R8"/>
+
+	<!-- This one sets the icon for when you save to homescreen on iOS. I should probably update it. -->
+	<link rel="apple-touch-icon" href="images/ios.png"/>
+
+	<!-- The little icon in the tab name -->
         <link rel="icon" href="images/favicon.png" type="image/png"/>
-        <meta itemprop="image" content="http://walkerreuben.com/images/favicon.png">
-        <script>
-            var _gaq = _gaq || [];
-              _gaq.push(['_setAccount', 'UA-27968746-1']);
-              _gaq.push(['_trackPageview']);
-            
-              (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-              })();
-        </script>
-        <script>
-          (function() {
-            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-            po.src = 'https://apis.google.com/js/plusone.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-          })();
-        </script>
+
+        <!-- The stylesheet decides how the page will look -->
+        <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+
     </head>
     <body>
-        <header>
-            <div id="js">
-                <div id="fb-root"></div>
-                <script>(function(d, s, id) {
-                  var js, fjs = d.getElementsByTagName(s)[0];
-                  if (d.getElementById(id)) return;
-                  js = d.createElement(s); js.id = id;
-                  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-                  fjs.parentNode.insertBefore(js, fjs);
-                }(document, 'script', 'facebook-jssdk'));
-                </script>
-                <script type="text/javascript">
-                    window._idl = {};
-                    _idl.variant = "banner";
-                    (function() {
-                        var idl = document.createElement('script');
-                        idl.type = 'text/javascript';
-                        idl.async = true;
-                        idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
-                        document.getElementsByTagName('body')[0].appendChild(idl);
-                    })();
-                </script>
-            </div>
-            <nav>
-                <a class="home" href="index.php">+Reuben</a>
-                <a class="home" href="contact.php">Contact Me</a>
-            </nav>
-        </header>
+
+        <!-- Reuben Analytics -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="//walkerreuben.com/analytics/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', 1]);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <!-- End Reuben Analytics -->
+
         <div class="body">
-            <a href="index.php"><h1 id="logo"></h1></a>
+            <a href="index.php"><img id="logo" src="images/logo680.png" alt="My logo"/></a>
+	<nav>
+                <a class="home" href="index.php">Home</a>
+                <a class="home" href="test">My Cloud</a>
+                <a class="home" href="wiki">My Wiki</a>
+                <a class="home" href="getaway">Getaway Wiki</a>
+                <a class="home" href="wordpress">WordPress</a>
+                <a class="home" href="analytics">Analytics</a>
+        </nav>
